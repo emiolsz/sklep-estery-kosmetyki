@@ -9,8 +9,6 @@ Formularz waliduje pola i pobiera plik tekstowy, nie wysyła wiadomości. Nie pr
 
 Brak zależności i kompilacji. Pliki wdrożenia w dist/. Brak analityki i reklam. Wspierane ograniczenie ruchu, klawiatura, semantyczne linki i aria-live dla powiadomień.
 
-Strony prawne inspirowane organizacją centrum pomocy Ksisters (nie kopiowane): regulamin, prywatność, cookies, dostawa, zwroty, reklamacje. Są opisane jako robocze. Wymagane dane sprzedawcy i operatorów przed sprzedażą. Referencje: https://ksisters.pl/terms-and-conditions oraz https://ksisters.pl/gdpr .
-
 Menu wielokolumnowe: pielęgnacja skóry, włosy i ciało, makijaż, higiena jamy ustnej. Dostępne po kliknięciu, obsługuje klawiaturę i Escape; zamyka się przy przejściu. Wszystkie kategorie zawierają przykładowe produkty.
 
 Boczny koszyk jest natywnym dialogiem: otwierany z nagłówka i po dodaniu produktu, zamykany przyciskiem, Escape lub kliknięciem poza panelem; podsumowanie, usuwanie i przejście do pełnego koszyka.
