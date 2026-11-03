@@ -1,0 +1,29 @@
+{
+  "stages": [
+    {
+      "cat": "oczyszczanie",
+      "title": "Oczyszczanie",
+      "image": "assets/oczyszczanie.jpg"
+    },
+    {
+      "cat": "tonizacja",
+      "title": "Tonizacja",
+      "image": "assets/tonizacja.jpg"
+    },
+    {
+      "cat": "serum",
+      "title": "Serum / Esencja",
+      "image": "assets/serum.jpg"
+    },
+    {
+      "cat": "maseczki",
+      "title": "Maseczka",
+      "image": "assets/maseczki.jpg"
+    },
+    {
+      "cat": "kremy",
+      "title": "Krem",
+      "image": "assets/kremy.jpg"
+    }
+  ]
+}
